@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\bin\Debug\net6.0-windows\StudentInfo.exe
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\bin\Debug\net6.0-windows\StudentInfo.deps.json
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\bin\Debug\net6.0-windows\StudentInfo.runtimeconfig.json
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\bin\Debug\net6.0-windows\StudentInfo.dll
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\bin\Debug\net6.0-windows\StudentInfo.pdb
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.Form1.resources
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.AssemblyInfo.cs
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.dll
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\refint\StudentInfo.dll
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.pdb
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\StudentInfo.genruntimeconfig.cache
+C:\Users\dell\source\repos\StudentInfo\StudentInfo\obj\Debug\net6.0-windows\ref\StudentInfo.dll
